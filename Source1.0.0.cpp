@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+#define FloatMinErrorValue 0.000001f
+
 class threeD_test_Point {
 public:
 	float x;
